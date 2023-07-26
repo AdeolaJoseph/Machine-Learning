@@ -1,7 +1,7 @@
 # 🚀 Machine Learning Notebooks Repository 📚
 
 <!-- Add Banner Image -->
-![Machine Learning Notebooks](images/1.jpg)
+![Machine Learning Notebooks](images/3.jpg)
 
 <!-- ## Introduction -->
 
