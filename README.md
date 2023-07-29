@@ -85,7 +85,7 @@ Thank you for exploring this repository, and I hope these notebooks help you in 
 
 Please note that this repository is not open for contribution, as it contains your laboratory exercises from the master's program. The notebooks are personal works and should not be shared or reproduced without proper authorization.
 
-
+The repository and its contents are protected under all applicable copyright laws. All rights are reserved to Universitat De Girona.
 
 Contact Information
 
