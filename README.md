@@ -5,7 +5,7 @@
 
 <!-- ## Introduction -->
 
-👋 Hello! Welcome to my **Machine Learning Notebooks** repository! 📚 This repository contains a collection of machine learning notebooks that I implemented during my master's program machine learning course. Each notebook represents a laboratory exercise that covers different machine learning techniques and algorithms. The notebooks are intended to serve as a personal reference and showcase your mastery of the course material. Whether you are a beginner or an experienced data scientist, these notebooks can be valuable resources to review and reinforce your understanding of machine learning concepts.
+👋 Hello! Welcome to my **Machine Learning Notebooks** repository! 📚 This repository contains a collection of machine learning notebooks that I implemented during my master's program machine learning course. Each notebook represents a laboratory exercise that covers different machine learning techniques and algorithms. The notebooks are intended to serve as a personal reference and showcase my mastery of the course material. Whether you are a beginner or an experienced data scientist, these notebooks can be valuable resources to review and reinforce your understanding of machine learning concepts.
 
 ## Notebooks Overview
 
