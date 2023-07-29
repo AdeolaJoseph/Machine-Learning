@@ -85,10 +85,10 @@ Thank you for exploring this repository, and I hope these notebooks help you in 
 
 Please note that this repository is not open for contribution, as it contains your laboratory exercises from the master's program. The notebooks are personal works and should not be shared or reproduced without proper authorization.
 
-The repository and its contents are protected under all applicable copyright laws. All rights are reserved to you, the author and contributor of the notebooks.
+The repository and its contents are protected under all applicable copyright laws. All rights are reserved to Universitat De Girona.
 Contact Information
 
-If you have any questions or need further assistance regarding the notebooks or the repository, feel free to contact me at your-email@example.com.
+If you have any questions or need further assistance regarding the notebooks or the repository, feel free to contact me at adeolajosepholoruntoba@gmail.com.
 
 Thank you for exploring this repository, and I hope these notebooks help you in your machine learning journey and future endeavors. Happy learning and continued success in your master's program!
  -->
